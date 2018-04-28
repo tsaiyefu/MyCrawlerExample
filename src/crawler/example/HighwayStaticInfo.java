@@ -8,6 +8,7 @@ import com.github.abola.crawler.CrawlerPack;
  * @author Abola Lee
  *
  */
+//BDSE0716 pushed on 2018/4/28
 public class HighwayStaticInfo {
 
 	public static void main(String[] args) {
