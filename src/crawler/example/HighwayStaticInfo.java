@@ -14,7 +14,7 @@ public class HighwayStaticInfo {
 	public static void main(String[] args) {
 		
 		// 遠端資料路徑
-		String uri = "gz:http://tisvcloud.freeway.gov.tw/cms_value.xml.gz";
+		String uri = "zip:http://plvr.land.moi.gov.tw//Download?type=zip&fileName=lvr_landxml.zip!/A_LVR_LAND_A.XML";
 
 		System.out.println(
 				CrawlerPack.start()
